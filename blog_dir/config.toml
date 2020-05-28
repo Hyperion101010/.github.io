@@ -1,0 +1,82 @@
+# default configuration
+baseURL = ""
+languageCode = "en-us"
+summaryLength = "10"
+theme = "myblog"
+title = "hyperion101010"
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+
+
+# menu
+
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 1
+
+[[menu.main]]
+URL = "#"
+name = "Coming soon..."
+weight = 2
+
+
+# default parameters
+[params]
+home = "Home"
+# theme color
+theme_color = "#41228e"
+# contact info
+phone = "+91 750719****"
+email = "shivambalikondwar101@gmail.com"
+address = "Pune, India"
+# meta description
+author = "Shivam Balikondwar"
+description = "This is meta description"
+# google analytics
+google_analytics_id = "" # Your ID
+# copyright
+copyright = ""
+
+
+# contact
+[params.contact]
+enable = false
+form_action = "#" # contact form works with : https://formspree.io
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# social site
+[[params.social]]
+icon = "ti-linkedin"
+URL = "https://www.linkedin.com/in/hyperion101010/"
+
+[[params.social]]
+icon = "ti-github"
+URL = "https://github.com/Hyperion101010"
+
+[[params.social]]
+icon = "ti-email"
+URL = "shivambalikondwar101@gmail.com"
+
+publishDir = "docs"

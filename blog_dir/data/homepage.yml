@@ -1,0 +1,128 @@
+# banner
+banner:
+  title : "Howdy I’m <br> Shivam <br> Full Stack, Open Source Developer and Pentester"
+
+# about
+about:
+  enable : true
+  content : "Currently, a final year student developer <br> I have worked with different Open Source organisations developing tools of prime importance. <br> I am a native code lover. Can develop C++, Rust project or any interesting idea which you throw at me. <br> Practising pentesting in my free time I aspire to spread Open Source philosphies and help secure businesses by finding vulnerabilities in thier digital products. <br> Looking for Full time roles as a Software Developer in a challenging environment. <br> You can usually find me chatting on Riot or hacking reports on hackerone :P"
+  button:
+    enable : true
+    label : "Check out my blog!"
+    URL : "blog"
+
+# experience
+experience:
+  enable : true
+  title : "Work Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Hyperledger Mentee"
+      company : "The Linux Foundation"
+      duration : "June 2020 - Present"
+      
+    - logo : "images/experience/icon-3.png"
+      title : "Code contributor"
+      company : "Mozilla - Firefox"
+      duration : "Sept 2018 - Present"
+
+    - logo : "images/experience/icon-1.png"
+      title : "Igalia CE (Chromium)"
+      company : "Igalia"
+      duration : "Jul 2019 - May 2020"
+
+    - logo : "images/experience/icon-2.png"
+      title : "Season of KDE Mentee"
+      company : "KDE"
+      duration : "Jan 2020 - Mar 2020"
+
+#extracirricular
+extracirricular:
+  enable : true
+  title : "Talks"
+  item:
+    - title : "Pydata Pune"
+      content : "Lightning talk on my Monitor Water project and SIH experience."
+      highlighted : true
+    - title : "More coming soon..."
+      content : ""
+      highlighted : false
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "B.E in ETE"
+      year : "2017 - 2021"
+      academy : "Pune Institute Of Computer Technology"
+      
+    - title : "HSC "
+      year : "2015 - 2017 | 82%"
+      academy : "Abhishek College, Pune"
+      
+    - title : "SSC"
+      year : "2014 | 91%"
+      academy : "Abhishek School"
+      
+
+# service
+service:
+  enable : true
+  title : "Projects"
+  item:
+    - title : "Monitor Water"
+      content : "A water monitor tool prototyped for Water Ministry(India) officers to help curb the malpractices done by industries and generate easy water usage reports. "
+      highlighted : true
+
+    - title : "Moonjit Assemblers"
+      content : "Developed assembler for Lua to support compilation of Lua on IBM s390x mainframes along with full test conformance."
+      highlighted : false
+
+    - title : "Skill_hub"
+      content : "A skill recommendation system for under-priviliged people which suggests the least number of skills to get a job already listed on the job-listing sites."
+      highlighted : true
+
+    - title : "Wayland support for Chromium"
+      content : "Worked with the Chromium team at Igalia to enable native support of Wayland display protocol on Chromium browser."
+      highlighted : false
+
+    - title : "File backend for ROCS IDE"
+      content : "Developed file backends for ROCS Graph IDE to support processing of ASCII characters and KML, GML and dot file formats during a month long open source mentorship program."
+      highlighted : true
+
+    - title : "JaldiApplykr"
+      content : "A WIP project to develop bots for automate the application process for user in a job application."
+      highlighted : false
+
+    - title : "Solidity Language Server"
+      content : "Developing language server for Solidity language to compile and debug Solang smart contracts."
+      highlighted : true
+
+    - title : "Sandboxing 3rd party libraries using RLBox"
+      content : "Working to sandbox third-party vulnerable media libraries in Firefox using wasm based sandboxing toolkit."
+      highlighted : false
+
+#need to add one field for looking for 
+# service
+#service:
+#  enable : true
+#  title : "Looking for help in..."
+#  item:
+#    - title : "Monitor Water"
+#      content : "A water monitor tool prototyped for Water Ministry(India) officers to help curb the malpractices done by industries and generate easy water usage reports. "
+#      highlighted : false
+
+
+# Gallery
+gallery:
+  enable : true
+  title : "Gallery"
+  item_show : 5
+  # Gallery item comes from 'data/gallery.yml' item.
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder

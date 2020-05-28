@@ -1,0 +1,19 @@
+# Gallery item
+item:
+  - title : "Gallery Item"
+    name : "SIH award"
+    image : "images/gallery/sih.jpg"
+    project_url : "#"
+    categories: ["design","development"]
+
+  - title : "Gallery Item"
+    name : "Pydata talk"
+    image : "images/gallery/pydata1.jpg"
+    project_url : "#"
+    categories: ["design","development"]
+
+  - title : "Gallery Item"
+    name : "Pydata talk"
+    image : "images/gallery/pydata2.jpg"
+    project_url : "#"
+    categories: ["design","development"]
