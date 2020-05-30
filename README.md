@@ -40,7 +40,7 @@ Using github:
 3. In public folder inside myblog/blog_dir the static files are written,
 upload the public folder on a github repo and publish it as a docs(static page).
 
-4. Change the baseURL inside blog_dir to your site URL to ensure the 
+4. Change the baseURL inside blog_dir/config.toml to your site URL to ensure the 
 site is properly hosted.
 
 ## If YoU hAvE aNy IsSuEs OpEn A ISSUE oR PR, LeT Me kNOw :sunglasses:
