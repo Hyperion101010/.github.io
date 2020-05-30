@@ -43,4 +43,4 @@ upload it on a github repo and publish it as a docs(static page).
 4. Change the baseURL inside blog_dir to your site URL to ensure the 
 site is properly hosted.
 
-If YoU hAvE aNy IsSuEs OpEn A ISSUE oR PR, LeT Me kNOw :)
+## If YoU hAvE aNy IsSuEs OpEn A ISSUE oR PR, LeT Me kNOw :sunglasses:
