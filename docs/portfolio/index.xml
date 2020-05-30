@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on hyperion101010</title>
-    <link>/portfolio/</link>
+    <link>https://hyperion101010.github.io/sbalikondwar/portfolio/</link>
     <description>Recent content in Portfolio on hyperion101010</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hyperion101010.github.io/sbalikondwar/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,5 +1,5 @@
 # default configuration
-baseURL = ""
+baseURL = "https://hyperion101010.github.io/sbalikondwar"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "myblog"
@@ -77,6 +77,6 @@ URL = "https://github.com/Hyperion101010"
 
 [[params.social]]
 icon = "ti-email"
-URL = "shivambalikondwar101@gmail.com"
+URL = "mailto:shivambalikondwar101@gmail.com"
 
 publishDir = "docs"

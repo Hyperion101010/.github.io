@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Howdy I’m <br> Shivam <br> Full Stack, Open Source Developer and Pentester"
+  title : "Howdy! I’m <br> Shivam <br> I'm a Full Stack, <br> Open Source Developer Pentester"
 
 # about
 about:
   enable : true
-  content : "Currently, a final year student developer <br> I have worked with different Open Source organisations developing tools of prime importance. <br> I am a native code lover. Can develop C++, Rust project or any interesting idea which you throw at me. <br> Practising pentesting in my free time I aspire to spread Open Source philosphies and help secure businesses by finding vulnerabilities in thier digital products. <br> Looking for Full time roles as a Software Developer in a challenging environment. <br> You can usually find me chatting on Riot or hacking reports on hackerone :P"
+  content : "Currently a final year student at PICT, Pune. I have worked with different Open Source organisations developing tools of prime importance. I love developing native code and can develop C++, Rust projects or any interesting idea which you throw at me. Practising pentesting in my free time I aspire to spread Open Source philosphies and help secure businesses by finding vulnerabilities in thier digital products. Looking for Full time roles as a Software Developer in a challenging environment. You can usually find me chatting on Mozilla Riot or hacking reports on hackerone :P"
   button:
     enable : true
     label : "Check out my blog!"
@@ -21,17 +21,17 @@ experience:
       company : "The Linux Foundation"
       duration : "June 2020 - Present"
       
-    - logo : "images/experience/icon-3.png"
+    - logo : "images/experience/icon-2.png"
       title : "Code contributor"
       company : "Mozilla - Firefox"
       duration : "Sept 2018 - Present"
 
-    - logo : "images/experience/icon-1.png"
+    - logo : "images/experience/icon-3.png"
       title : "Igalia CE (Chromium)"
       company : "Igalia"
       duration : "Jul 2019 - May 2020"
 
-    - logo : "images/experience/icon-2.png"
+    - logo : "images/experience/icon-1.png"
       title : "Season of KDE Mentee"
       company : "KDE"
       duration : "Jan 2020 - Mar 2020"
