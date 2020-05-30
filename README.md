@@ -35,7 +35,7 @@ Using github:
 
 1. cd blog_dir
 
-2. hugo themesDir=../..
+2. hugo --themesDir=../..
 
 3. In public folder in myblog folder the static files are written,
 upload it on a github repo and publish it as a docs(static page).
