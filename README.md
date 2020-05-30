@@ -37,8 +37,8 @@ Using github:
 
 2. hugo --themesDir=../..
 
-3. In public folder in myblog folder the static files are written,
-upload it on a github repo and publish it as a docs(static page).
+3. In public folder inside myblog/blog_dir the static files are written,
+upload the public folder on a github repo and publish it as a docs(static page).
 
 4. Change the baseURL inside blog_dir to your site URL to ensure the 
 site is properly hosted.
